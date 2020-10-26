@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #fcf1f1;
+  text-align: center;
+}
+
+.button_game1, .button_game2, .result {
+  font-size: 18px;
+  border: 2px solid black;
+  padding: 12px 24px;
+  text-decoration: none;
+  /*under_line*/
+  color: black;
+  margin: 20px;
+}
+
+.button_game1:hover, .button_game2:hover,
+.result:hover {
+  background-color: #f31d93;
+  color: white;
+  border: 1px solid black;
+}
+
+fieldset {
+  margin-top: 100px;
+  width: 1000px;
+  margin-left: 300px;
+}
+
+h1 {
+  color: #f31d93;
+}
+
+h3 {
+  padding-top: 30px;
+}
+
+.box1 {
+  left: 30px;
+  top: 30px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  margin-bottom: 5px;
+  background-color: lightblue;
+}
+
+.box2 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+}
+
+.box3 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+}
+
+.box4 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+  margin-bottom: 5px;
+}
+
+.box5 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+}
+
+.box6 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+}
+
+.box7 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+}
+
+.box8 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+}
+
+.box9 {
+  left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  background-color: lightblue;
+}
+
+.box1:hover,
+.box2:hover,
+.box3:hover,
+.box4:hover,
+.box5:hover,
+.box6:hover,
+.box7:hover,
+.box8:hover,
+.box9:hover {
+  border: 4px solid #f31d93;
+}
